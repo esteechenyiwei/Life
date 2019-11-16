@@ -1,4 +1,5 @@
 # Good App and Software Recommendation
+Edited by [@Estee Chen](https://github.com/esteechenyiwei)
 
 **Teamwork:**
 * Quip?
