@@ -1,4 +1,4 @@
-# Good App/Software Recommendation
+# Good App and Software Recommendation
 
 **Teamwork:**
 * Quip?
